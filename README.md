@@ -51,3 +51,7 @@ Notes:
 - `price`: coal price or stock closing price
 
 If a CSV uses a different second-column name, `data_loader.py` will still treat the first non-`date` column as the price series and rename it during loading.
+
+## License
+
+MIT
