@@ -54,4 +54,4 @@ If a CSV uses a different second-column name, `data_loader.py` will still treat 
 
 ## License
 
-MIT
+All Rights Reserved. See [LICENSE](LICENSE).
